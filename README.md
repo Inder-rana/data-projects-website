@@ -1,4 +1,18 @@
 
+
+## Project: End-to-End Data Pipeline with Databricks (Medallion Architecture)-2026
+-   Built a scalable data pipeline using Databricks, implementing the medallion architecture for structured data processing.
+-   Ingested raw e-commerce data and processed through Bronze → Silver → Gold layers
+-   Performed transformations using PySpark and SQL within Databricks
+-   Designed cleaned and aggregated datasets for analytics use cases
+-   Explored business insights using Databricks AI (Genie) for natural language queries
+-   Built a basic AI-powered BI dashboard using prompt-driven analytics
+-   Gained exposure to workflow orchestration within the Databricks environment
+
+  **Tools**: Databricks, PySpark, SQL. \
+  **Focus**: Data pipelines, distributed processing, modern data architecture
+
+
 ## [Project: Automated ETL data Pipeline]
 ### [Python | SQL | AWS | Power BI | 2025]
 * Designed and implemented an **end-to-end automated ETL pipeline** to move data from an OLTP source into an OLAP environment for analytics.
