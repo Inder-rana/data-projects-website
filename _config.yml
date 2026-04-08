@@ -1,9 +1,8 @@
 # Basic Info
 title: "Data project portfolio (Inder Singh)"
-description: "Insights and analytics portfolio showcasing data projects."
 
 # Theme (choose one: minima, jekyll-theme-cayman, jekyll-theme-minimal)
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 # Contact Links (for Minima 3.0+)
 minima:
