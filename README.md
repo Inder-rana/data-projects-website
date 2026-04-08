@@ -13,8 +13,7 @@
   **Focus**: Data pipelines, distributed processing, modern data architecture
 
 
-#### Project: Automated ETL data Pipeline
-**Python | SQL | AWS | Power BI | 2025**
+#### Project: Automated ETL data Pipeline (**Python | SQL | AWS | Power BI | 2025**)
 * Designed and implemented an **end-to-end automated ETL pipeline** to move data from an OLTP source into an OLAP environment for analytics.
 * Built a cloud-based architecture using **AWS S3 (data lake), Glue (transformation), Lambda (automation), and Redshift (data warehouse)**.
 * Automated data ingestion, cleaning, and transformation triggered by new file uploads.
