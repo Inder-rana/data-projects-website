@@ -12,6 +12,29 @@
   **Tools**: Databricks, PySpark, SQL. \
   **Focus**: Data pipelines, distributed processing, modern data architecture
 
+#### Modern Data Transformation Pipeline with dbt & Redshift-2026
+- Developed a modular ELT pipeline using dbt Cloud on AWS Redshift, transforming raw data into analytics-ready models.
+- Implemented layered data architecture: raw → staging → marts
+- Built reusable dbt models to transform and structure warehouse data
+- Applied version control using GitHub for collaborative and trackable development
+- Implemented data quality tests (e.g., null checks, uniqueness) to ensure data reliability
+- Designed analytics-ready tables for downstream reporting and BI tools
+
+**Tools**: dbt Cloud, AWS Redshift, SQL, GitHub \
+**Focus**: Data modeling, transformation workflows, data quality
+
+#### Global Happiness Analysis Dashboard-2025
+- Built an interactive Tableau dashboard analyzing global happiness trends across countries using the 2024 dataset.
+- Visualized global average happiness, and identified top and bottom-ranked countries
+- Designed an interactive world map to compare country-level happiness scores and rankings
+- Analyzed key contributing factors (GDP, social support, life expectancy, etc.) using comparative bar charts
+- Explored correlation between GDP and happiness through scatter plot analysis
+- Identified outliers where happiness deviates from economic expectations (high happiness–low GDP and vice versa)
+- Summarized insights in an executive dashboard for quick decision-making
+
+**Tools**: Tableau \
+**Focus**: Data visualization, exploratory analysis, insight generation
+
 
 #### Automated ETL data Pipeline [Python | SQL | AWS | Power BI | 2025]
 * Designed and implemented an end-to-end automated ETL pipeline to move data from an OLTP source into an OLAP environment for analytics.
@@ -39,7 +62,7 @@
 ![PL](/images/image_P&L_small.PNG)
 
 #### Real Estate Statistical Analysis [Excel | Statistics | 2023] [Github Link](https://github.com/Inder-rana/Guided_projects/tree/main/Statistics_real_estate)
-* Performed exploratory and statistical analysis on real estate datasets to identify **pricing and demand patterns**.
+* Performed exploratory and statistical analysis on real estate datasets to identify pricing and demand patterns.
 * Applied frequency distributions, Pareto analysis, and correlation techniques.
 * Created visual summaries to support marketing and targeting strategy discussions.
 * Demonstrated practical use of statistics for business decision-making.
