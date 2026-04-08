@@ -22,12 +22,11 @@
 
 ![](/images/AWS screenshot.PNG)
 
-## [Project: Melbourne Job Market Analysis ]
-### [Python | Excel | 2025]
-* Analysed Melbourne job market trends to identify **role demand, hiring companies, and skill requirements**.
-* Collected job posting data from multiple sources using **Python, APIs, and web scraping tools**.
+#### Melbourne Job Market Analysis [Python | Excel | 2025]
+* Analysed Melbourne job market trends to identify role demand, hiring companies, and skill requirements**.
+* Collected job posting data from multiple sources using Python, APIs, and web scraping tools.
 * Cleaned and consolidated datasets to identify high-demand roles and employer activity.
-* Produced summary insights to support **career and workforce planning decisions**.
+* Produced summary insights to support career and workforce planning decisions.
 
 ![](/images/Job project screenshot.PNG)
 
