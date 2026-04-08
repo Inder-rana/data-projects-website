@@ -1,6 +1,6 @@
 
 
-#### Project: End-to-End Data Pipeline with Databricks (Medallion Architecture)-2026
+### Project: End-to-End Data Pipeline with Databricks (Medallion Architecture)-2026
 -   Built a scalable data pipeline using Databricks, implementing the medallion architecture for structured data processing.
 -   Ingested raw e-commerce data and processed through Bronze → Silver → Gold layers
 -   Performed transformations using PySpark and SQL within Databricks
