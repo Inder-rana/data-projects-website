@@ -1,6 +1,6 @@
 
 
-#### End-to-End Data Pipeline with Databricks (Medallion Architecture)-2026
+#### End-to-End Data Pipeline with Databricks [Medallion Architecture]-2026
 -   Built a scalable data pipeline using Databricks, implementing the medallion architecture for structured data processing.
 -   Ingested raw e-commerce data and processed through Bronze → Silver → Gold layers
 -   Performed transformations using PySpark and SQL within Databricks
@@ -13,7 +13,7 @@
   **Focus**: Data pipelines, distributed processing, modern data architecture
 
 
-#### Automated ETL data Pipeline (Python | SQL | AWS | Power BI | 2025)
+#### Automated ETL data Pipeline [Python | SQL | AWS | Power BI | 2025]
 * Designed and implemented an end-to-end automated ETL pipeline to move data from an OLTP source into an OLAP environment for analytics.
 * Built a cloud-based architecture using AWS S3 (data lake), Glue (transformation), Lambda (automation), and Redshift (data warehouse).
 * Automated data ingestion, cleaning, and transformation triggered by new file uploads.
@@ -30,9 +30,8 @@
 
 ![](/images/Job project screenshot.PNG)
 
-## [Project: Profit & Loss Analysis](https://github.com/Inder-rana/Guided_projects/tree/main/Excel_P%26L)
-### [Excel | Financial Analysis | 2023]
-* Built a structured **P&L statement** from raw financial extracts spanning multiple financial years.
+#### [Profit & Loss Analysis](https://github.com/Inder-rana/Guided_projects/tree/main/Excel_P%26L) [Excel | Financial Analysis | 2023]
+* Built a structured P&L statement from raw financial extracts spanning multiple financial years.
 * Cleaned and categorised financial data to enable clearer expense and revenue analysis.
 * Created mappings to group common P&L items for easier interpretation by stakeholders.
 * Demonstrated how financial data can support **cost control and budgeting discussions**.
