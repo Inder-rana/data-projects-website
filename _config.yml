@@ -1,3 +1,12 @@
-theme: jekyll-theme-slate
+# Basic Info
+title: "Data project portfolio (Inder Singh)"
+description: "Insights and analytics portfolio showcasing data projects."
 
-title: DATA PROJECT PORTFOLIO (Inder Singh)
+# Theme (choose one: minima, jekyll-theme-cayman, jekyll-theme-minimal)
+theme: minima
+
+# Contact Links (for Minima 3.0+)
+minima:
+  social_links:
+    linkedin: your-linkedin-username
+    email: your-email@example.com
