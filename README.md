@@ -1,6 +1,6 @@
 
 
-#### End-to-End Data Pipeline with Databricks [Medallion Architecture]-2026 [Github link](https://github.com/Inder-rana/databricks_project)
+#### End-to-End Data Pipeline with Databricks [Medallion Architecture]-2026 [github link](https://github.com/Inder-rana/databricks_project)
 -   Built a scalable data pipeline using Databricks, implementing the medallion architecture for structured data processing.
 -   Ingested raw e-commerce data and processed through Bronze → Silver → Gold layers
 -   Performed transformations using PySpark and SQL within Databricks
@@ -12,7 +12,7 @@
   **Tools**: Databricks, PySpark, SQL. \
   **Focus**: Data pipelines, distributed processing, modern data architecture
 
-#### Modern Data Transformation Pipeline with dbt & Redshift-2026
+#### Modern Data Transformation Pipeline with dbt & Redshift-2026 [github link](https://github.com/Inder-rana/dbt_project) 
 - Developed a modular ELT pipeline using dbt Cloud on AWS Redshift, transforming raw data into analytics-ready models.
 - Implemented layered data architecture: raw → staging → marts
 - Built reusable dbt models to transform and structure warehouse data
@@ -23,7 +23,7 @@
 **Tools**: dbt Cloud, AWS Redshift, SQL, GitHub \
 **Focus**: Data modeling, transformation workflows, data quality
 
-#### Global Happiness Analysis Dashboard-2025
+#### Global Happiness Analysis Dashboard-2025 [tableau public link](https://public.tableau.com/app/profile/inder.singh117/viz/multiplesheets_17719353590620/GlobalHappiness2024)
 - Built an interactive Tableau dashboard analyzing global happiness trends across countries using the 2024 dataset.
 - Visualized global average happiness, and identified top and bottom-ranked countries
 - Designed an interactive world map to compare country-level happiness scores and rankings
