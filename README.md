@@ -1,6 +1,6 @@
 
 
-#### End-to-End Data Pipeline with Databricks [Medallion Architecture]-2026
+#### End-to-End Data Pipeline with Databricks [Medallion Architecture]-2026 [Github link](https://github.com/Inder-rana/databricks_project)
 -   Built a scalable data pipeline using Databricks, implementing the medallion architecture for structured data processing.
 -   Ingested raw e-commerce data and processed through Bronze → Silver → Gold layers
 -   Performed transformations using PySpark and SQL within Databricks
